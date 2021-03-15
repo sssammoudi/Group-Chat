@@ -1,0 +1,22 @@
+.message {
+  margin: 10px;
+  padding: 10px;
+  width: fit-content;
+}
+
+.message:nth-last-child(1) {
+  margin-bottom: 100px;
+}
+
+.__user {
+  margin-left: auto;
+  text-align: left !important;
+}
+
+.__userCard {
+  background: #ff4040 !important;
+}
+
+.not__userCard {
+  background: #edede9 !important;
+}
